@@ -1,3 +1,3 @@
 # Frameworks
 
-[SolidJS](solidjs.md)
+- [SolidJS](solidjs.md)
